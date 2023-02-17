@@ -8,7 +8,7 @@ function App() {
     <div className="app">
       <LoginPage />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
